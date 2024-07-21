@@ -3,7 +3,7 @@
 
 OLED_GFX 和 U8GLIB 都是用於控制 OLED (Organic Light-Emitting Diode) 顯示器的庫，但它們有一些明顯的差異，主要集中在以下幾個方面：
 
-##支援的硬體:
+## 支援的硬體:
 
 OLED_GFX: 通常支援基於 Adafruit 的 OLED 顯示器，如 Adafruit SSD1306 驅動的顯示器。
 U8GLIB: 支援多種不同製造商的 OLED 顯示器，例如 SSD1306、SSD1309、SSD1327 等。它相對於硬體的支援更廣泛，可以適應不同的 OLED 顯示器。
