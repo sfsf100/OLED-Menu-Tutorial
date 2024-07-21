@@ -10,7 +10,8 @@ OLED 選用 SSD1306。尺寸:   0.96吋：128x64
 
 ## 專案程式碼:
 OLED_U8G : 使用 U8GLIB 庫  ，顯示OLED Menu。  
-OLED_GFX : 使用 Adafruit 庫  ，顯示Hello word。  參考至:https://sites.google.com/site/lakilch01/%E9%9B%B6%E7%B5%84%E4%BB%B6%E4%BB%8B%E7%B4%B9/oled
+OLED_GFX : 使用 Adafruit 庫  ，顯示Hello word。  
+參考至:https://sites.google.com/site/lakilch01/%E9%9B%B6%E7%B5%84%E4%BB%B6%E4%BB%8B%E7%B4%B9/oled
 OLED : 是使用stm32 的相關庫  ，暫無。
 
 OLED_GFX 和 U8GLIB 都是用於控制 OLED (Organic Light-Emitting Diode) 顯示器的庫，但它們有一些明顯的差異，主要集中在以下幾個方面：
