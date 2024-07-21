@@ -16,7 +16,7 @@ OLED_GFX : 使用 Adafruit 庫  ，顯示Hello word。
 
 OLED : 是使用stm32 的相關庫  ，暫無。
 
-OLED_GFX 和 U8GLIB 都是用於控制 OLED (Organic Light-Emitting Diode) 顯示器的庫，但它們有一些明顯的差異，主要集中在以下幾個方面：
+OLED_GFX 和 U8GLIB 都是用於控制 OLED (Organic Light-Emitting Diode) 顯示器的庫，但它們有一些明顯的差異：
 
 ## 支援的硬體:
 
